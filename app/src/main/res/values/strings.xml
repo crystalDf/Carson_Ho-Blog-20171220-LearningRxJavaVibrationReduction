@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LearningRxJavaVibrationReduction</string>
+    <string name="send">点击发送网络请求</string>
 </resources>
